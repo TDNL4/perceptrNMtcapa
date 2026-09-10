@@ -1,6 +1,8 @@
-jupyter
-scikit-learn
-numpy
-tensorflow
-matplotlib
 pandas
+numpy
+matplotlib
+scikit-learn
+torch
+ai-edge-litert
+ai-edge-torch
+jupyter
